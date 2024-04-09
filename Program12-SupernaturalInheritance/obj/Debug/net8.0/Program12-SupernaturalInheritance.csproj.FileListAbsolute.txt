@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\bin\Debug\net8.0\Program12-SupernaturalInheritance.exe
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\bin\Debug\net8.0\Program12-SupernaturalInheritance.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\bin\Debug\net8.0\Program12-SupernaturalInheritance.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\bin\Debug\net8.0\Program12-SupernaturalInheritance.dll
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\bin\Debug\net8.0\Program12-SupernaturalInheritance.pdb
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\Program12-SupernaturalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\Program12-SupernaturalInheritance.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\Program12-SupernaturalInheritance.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\Program12-SupernaturalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\Program12-SupernaturalInheritance.dll
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\refint\Program12-SupernaturalInheritance.dll
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\Program12-SupernaturalInheritance.pdb
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\Program12-SupernaturalInheritance.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program12-SupernaturalInheritance\obj\Debug\net8.0\ref\Program12-SupernaturalInheritance.dll

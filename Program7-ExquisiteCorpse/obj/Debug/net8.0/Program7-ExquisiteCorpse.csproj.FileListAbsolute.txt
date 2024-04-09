@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\bin\Debug\net8.0\Program7-ExquisiteCorpse.exe
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\bin\Debug\net8.0\Program7-ExquisiteCorpse.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\bin\Debug\net8.0\Program7-ExquisiteCorpse.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\bin\Debug\net8.0\Program7-ExquisiteCorpse.dll
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\bin\Debug\net8.0\Program7-ExquisiteCorpse.pdb
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\Program7-ExquisiteCorpse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\Program7-ExquisiteCorpse.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\Program7-ExquisiteCorpse.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\Program7-ExquisiteCorpse.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\Program7-ExquisiteCorpse.dll
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\refint\Program7-ExquisiteCorpse.dll
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\Program7-ExquisiteCorpse.pdb
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\Program7-ExquisiteCorpse.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program7-ExquisiteCorpse\obj\Debug\net8.0\ref\Program7-ExquisiteCorpse.dll

@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\bin\Debug\net8.0\Program13-RoverControlCenter.exe
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\bin\Debug\net8.0\Program13-RoverControlCenter.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\bin\Debug\net8.0\Program13-RoverControlCenter.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\bin\Debug\net8.0\Program13-RoverControlCenter.dll
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\bin\Debug\net8.0\Program13-RoverControlCenter.pdb
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\Program13-RoverControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\Program13-RoverControlCenter.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\Program13-RoverControlCenter.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\Program13-RoverControlCenter.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\Program13-RoverControlCenter.dll
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\refint\Program13-RoverControlCenter.dll
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\Program13-RoverControlCenter.pdb
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\Program13-RoverControlCenter.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program13-RoverControlCenter\obj\Debug\net8.0\ref\Program13-RoverControlCenter.dll

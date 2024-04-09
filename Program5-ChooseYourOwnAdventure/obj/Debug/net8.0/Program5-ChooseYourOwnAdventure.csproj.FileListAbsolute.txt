@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\bin\Debug\net8.0\Program5-ChooseYourOwnAdventure.exe
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\bin\Debug\net8.0\Program5-ChooseYourOwnAdventure.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\bin\Debug\net8.0\Program5-ChooseYourOwnAdventure.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\bin\Debug\net8.0\Program5-ChooseYourOwnAdventure.dll
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\bin\Debug\net8.0\Program5-ChooseYourOwnAdventure.pdb
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\Program5-ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\Program5-ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\Program5-ChooseYourOwnAdventure.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\Program5-ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\Program5-ChooseYourOwnAdventure.dll
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\refint\Program5-ChooseYourOwnAdventure.dll
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\Program5-ChooseYourOwnAdventure.pdb
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\Program5-ChooseYourOwnAdventure.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program5-ChooseYourOwnAdventure\obj\Debug\net8.0\ref\Program5-ChooseYourOwnAdventure.dll

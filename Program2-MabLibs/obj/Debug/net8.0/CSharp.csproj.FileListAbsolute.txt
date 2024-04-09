@@ -1,0 +1,28 @@
+C:\Users\chamr\Downloads\CSharp\bin\Debug\net8.0\CSharp.exe
+C:\Users\chamr\Downloads\CSharp\bin\Debug\net8.0\CSharp.deps.json
+C:\Users\chamr\Downloads\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp\bin\Debug\net8.0\CSharp.dll
+C:\Users\chamr\Downloads\CSharp\bin\Debug\net8.0\CSharp.pdb
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\CSharp.dll
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\CSharp.pdb
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp\obj\Debug\net8.0\ref\CSharp.dll
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\bin\Debug\net8.0\CSharp.exe
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\bin\Debug\net8.0\CSharp.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\bin\Debug\net8.0\CSharp.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\bin\Debug\net8.0\CSharp.dll
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\bin\Debug\net8.0\CSharp.pdb
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\CSharp.dll
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\refint\CSharp.dll
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\CSharp.pdb
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program2-MabLibs\obj\Debug\net8.0\ref\CSharp.dll

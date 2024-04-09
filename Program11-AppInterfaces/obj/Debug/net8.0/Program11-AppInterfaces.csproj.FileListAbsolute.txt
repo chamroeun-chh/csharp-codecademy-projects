@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\bin\Debug\net8.0\Program11-AppInterfaces.exe
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\bin\Debug\net8.0\Program11-AppInterfaces.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\bin\Debug\net8.0\Program11-AppInterfaces.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\bin\Debug\net8.0\Program11-AppInterfaces.dll
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\bin\Debug\net8.0\Program11-AppInterfaces.pdb
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\Program11-AppInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\Program11-AppInterfaces.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\Program11-AppInterfaces.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\Program11-AppInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\Program11-AppInterfaces.dll
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\refint\Program11-AppInterfaces.dll
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\Program11-AppInterfaces.pdb
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\Program11-AppInterfaces.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program11-AppInterfaces\obj\Debug\net8.0\ref\Program11-AppInterfaces.dll

@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\bin\Debug\net8.0\Program9-TrueOrFalse.exe
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\bin\Debug\net8.0\Program9-TrueOrFalse.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\bin\Debug\net8.0\Program9-TrueOrFalse.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\bin\Debug\net8.0\Program9-TrueOrFalse.dll
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\bin\Debug\net8.0\Program9-TrueOrFalse.pdb
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\Program9-TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\Program9-TrueOrFalse.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\Program9-TrueOrFalse.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\Program9-TrueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\Program9-TrueOrFalse.dll
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\refint\Program9-TrueOrFalse.dll
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\Program9-TrueOrFalse.pdb
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\Program9-TrueOrFalse.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program9-TrueOrFalse\obj\Debug\net8.0\ref\Program9-TrueOrFalse.dll

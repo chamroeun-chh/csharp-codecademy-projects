@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\bin\Debug\net8.0\Program14-ProgrammingLanguages.exe
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\bin\Debug\net8.0\Program14-ProgrammingLanguages.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\bin\Debug\net8.0\Program14-ProgrammingLanguages.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\bin\Debug\net8.0\Program14-ProgrammingLanguages.dll
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\bin\Debug\net8.0\Program14-ProgrammingLanguages.pdb
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\Program14-ProgrammingLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\Program14-ProgrammingLanguages.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\Program14-ProgrammingLanguages.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\Program14-ProgrammingLanguages.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\Program14-ProgrammingLanguages.dll
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\refint\Program14-ProgrammingLanguages.dll
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\Program14-ProgrammingLanguages.pdb
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\Program14-ProgrammingLanguages.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program14-ProgrammingLanguages\obj\Debug\net8.0\ref\Program14-ProgrammingLanguages.dll

@@ -1,0 +1,29 @@
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.exe
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.dll
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.pdb
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.dll
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\refint\Program10-TheObjectOfYourAffection.dll
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.pdb
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\ref\Program10-TheObjectOfYourAffection.dll
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.exe
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.deps.json
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.dll
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\bin\Debug\net8.0\Program10-TheObjectOfYourAffection.pdb
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.sourcelink.json
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.dll
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\refint\Program10-TheObjectOfYourAffection.dll
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.pdb
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\Program10-TheObjectOfYourAffection.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp-program\Program10-TheObjectOfYourAffection\obj\Debug\net8.0\ref\Program10-TheObjectOfYourAffection.dll

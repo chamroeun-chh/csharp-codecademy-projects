@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\bin\Debug\net8.0\Program1-ConsoleCreature.exe
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\bin\Debug\net8.0\Program1-ConsoleCreature.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\bin\Debug\net8.0\Program1-ConsoleCreature.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\bin\Debug\net8.0\Program1-ConsoleCreature.dll
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\bin\Debug\net8.0\Program1-ConsoleCreature.pdb
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\Program1-ConsoleCreature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\Program1-ConsoleCreature.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\Program1-ConsoleCreature.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\Program1-ConsoleCreature.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\Program1-ConsoleCreature.dll
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\refint\Program1-ConsoleCreature.dll
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\Program1-ConsoleCreature.pdb
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\Program1-ConsoleCreature.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program1-ConsoleCreature\obj\Debug\net8.0\ref\Program1-ConsoleCreature.dll

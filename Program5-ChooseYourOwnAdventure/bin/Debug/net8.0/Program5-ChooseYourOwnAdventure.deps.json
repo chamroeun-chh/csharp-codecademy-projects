@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Program5-ChooseYourOwnAdventure/1.0.0": {
+        "runtime": {
+          "Program5-ChooseYourOwnAdventure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program5-ChooseYourOwnAdventure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

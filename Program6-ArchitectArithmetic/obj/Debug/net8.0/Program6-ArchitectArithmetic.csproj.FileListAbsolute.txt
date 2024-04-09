@@ -1,0 +1,14 @@
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\bin\Debug\net8.0\Program6-ArchitectArithmetic.exe
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\bin\Debug\net8.0\Program6-ArchitectArithmetic.deps.json
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\bin\Debug\net8.0\Program6-ArchitectArithmetic.runtimeconfig.json
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\bin\Debug\net8.0\Program6-ArchitectArithmetic.dll
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\bin\Debug\net8.0\Program6-ArchitectArithmetic.pdb
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\Program6-ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\Program6-ArchitectArithmetic.AssemblyInfoInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\Program6-ArchitectArithmetic.AssemblyInfo.cs
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\Program6-ArchitectArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\Program6-ArchitectArithmetic.dll
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\refint\Program6-ArchitectArithmetic.dll
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\Program6-ArchitectArithmetic.pdb
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\Program6-ArchitectArithmetic.genruntimeconfig.cache
+C:\Users\chamr\Downloads\CSharp program\Program6-ArchitectArithmetic\obj\Debug\net8.0\ref\Program6-ArchitectArithmetic.dll
